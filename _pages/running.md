@@ -6,7 +6,7 @@ author_profile: true
 ---
 If I'm not doing astronomy you'll most likely find me running. Feel free to follow my [Strava](https://www.strava.com/athletes/42634794), and I'm always down to link up for runs with fellow astronomers :)
 
-## [New Haven Road Runners](https://www.newhavenroadrunners.com/home)
+## New Haven Road Runners
 If you're ever in the New Haven area and want running buddies check out the team I run for, the [New Haven Road Runners](https://www.newhavenroadrunners.com/home). We have everything from casual social runners to Olympic Trials Qualifiers -- there's something for everyone, and group runs every day! I have served as:
 * Public Relations Chair (2023-2024)
 * Racing Team Director & Elite Athlete Coordinator (2022-2023)
