@@ -1,7 +1,12 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Tidal and Spin Evolution"
+excerpt: "Effects like tides and rotation can have subtle but profound effects on how planets move, and vice versa. <br/><img src='/images/tides_spin.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Under Construction!
+
+Relevant Publications:
+1. Lu et. al (2024), [In Review](https://arxiv.org/abs/2405.19511)
+2. Lu et. al (2023), [_ApJ_ **948** 41](https://iopscience.iop.org/article/10.3847/1538-4357/acc06d)
+3. Lu & Laughlin (2022), [_PSJ_ **3** 221](https://iopscience.iop.org/article/10.3847/PSJ/ac83c1)

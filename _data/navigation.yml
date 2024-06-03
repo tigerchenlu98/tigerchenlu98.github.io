@@ -1,15 +1,15 @@
 # main links links
 main:
   - title: "Research"
-    url: /portfolio/
-
-  - title: "Publications"
     url: /publications/
 
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Outreach/Mentoring"
+    url: /teaching/
 
   - title: "CV"
+    url: /files/TLu_CV.pdf
+
+  - title: "Running"
     url: /files/TLu_CV.pdf
 
   - title: "Guide"
