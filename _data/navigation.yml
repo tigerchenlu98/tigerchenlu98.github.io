@@ -10,7 +10,7 @@ main:
     url: /files/TLu_CV.pdf
 
   - title: "Running"
-    url: /files/TLu_CV.pdf
+    url: /running/
 
   - title: "Guide"
     url: /markdown/

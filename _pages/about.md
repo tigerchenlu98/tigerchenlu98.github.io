@@ -13,4 +13,4 @@ I grew up in Shanghai, China, and attended Caltech for my undergraduate studies 
 
 My other past and present collaborators, in alphabetical order: Qier An, [Mirek Brandt](https://www.mirekbrandt.com/), [Timothy Brandt](https://web.physics.ucsb.edu/~tbrandt/), [Ben Cassese](https://ben-cassese.github.io/), [Sam Hadden](https://shadden.github.io/), [David Hernandez](https://www.davidmhernandez.com/), [Gongjie Li](https://www.physics.gatech.edu/user/gongjie-li), Douglas Lin, Rosemary Mardling, [Sarah Millholland](https://sarahmillholland.com/#), [Hanno Rein](https://hanno-rein.de/), [Dan Tamayo](https://dtamayo.github.io/), [Sean Wahl](https://seanwahl.com/).
 
-Please do not hesitate to reach out to me via any of the methods in the sidebar!
+I am co-organizing Yale's Exoplanets & Stars seminar this year. If you are interested in coming to Yale for a talk, especially if you are early-career and on the job market, feel free to shoot me an email. Also feel free to reach out to me via any of the options on the sidebar!

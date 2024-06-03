@@ -8,7 +8,6 @@ author_profile: true
 I am heavily involved in science outreach, mentoring and professional service. On this page are some of the organizations I have been involved with.
 
 ## Outreach
-
 ### [Yale Openlabs](https://theopenlabs.sites.yale.edu/)
 Yale Openlabs is a graduate student organization aimed at outreach to the local New Haven community. In 2023 I served as Public Relations Chair, and have been an active member and volunteer over my graduate career. Some highlights:
 
@@ -27,17 +26,15 @@ Astronomy on Tap is an outreach organization that presents informal astronomy ta
 
 
 ## Teaching & Mentoring
-
 ### [Warrior Scholar Program](https://www.warrior-scholar.org/)
 The Warrior Scholar Program aims to prepare enlisted veterans and transitioning service members for undergraduate level education. In 2023 I designed, wrote and taught a two-week bootcamp centered around understanding and applying methods of numerical integration.
 
 ### [Yale Astro Sibs](https://astronomy.yale.edu/academics/undergraduate-program/astro-sibs-undergraduate-mentorship-program)
 Yale Astro Sibs is an informal mentoring program that pairs graduate student mentors with undergraduate mentees. I have served as a mentor for three years running.
 
-## Professionl Community
-
+## Professional Community
 ### [Emerging Researchers in Exoplanet Science (ERES)](https://exoemma.my.canva.site/eres2023)
 I was one of the main organizers for the ERES VIII conference at Yale University in 2023. This conference hosted over 100 early-career exoplanet researchers for a two-day program in which travel, lodging and travel funds were completely covered for those in need. I served on the Scientific Organizing Committee as well as performing various administrative tasks on-site. A write-up of our experience hosting this conference is available on the Bulletin of the AAS [here](https://baas.aas.org/pub/2024i004/release/1).
 
-## Yale Exoplanets and Stars Seminar
+### Yale Exoplanets and Stars Seminar
 I have been the lead co-organizer of the Yale Exoplanets & Stars Seminar since 2023, a weekly seminar series involving both early-career speakers and discussions of recent relevant papers. If you are interested in speaking this year feel free to reach out.
