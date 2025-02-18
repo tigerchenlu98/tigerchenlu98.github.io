@@ -7,6 +7,6 @@ collection: portfolio
 Under Construction!
 
 Relevant Publications:
-1. Lu et. al (2024), [In Review](https://arxiv.org/abs/2405.19511)
-2. Lu, Li, Cassese & Lin. In Prep.
+1. Lu et. al (2025a), [_ApJ_ **979** 2](https://iopscience.iop.org/article/10.3847/1538-4357/ad9b79)
+2. Lu et. al (2025b), [_ApJ_ **980** 1]()
 3. Cassese, Rice & Lu. In Prep.

@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Astrophysics Ph.D Candidate at [Yale University](https://astronomy.yale.edu/), advised by [Gregory Laughlin](https://astronomy.yale.edu/people/gregory-laughlin). I am also a member of [Malena Rice's](http://www.astro.yale.edu/malenarice/team.html) Research Group. I am broadly interested in exoplanet dynamics and architectures. Specifically, I have worked on numerical methods and tools, tidal and spin evolution, and how the structure of planets affects the details of their dynamics.
+I am a Astrophysics Ph.D Candidate at [Yale University](https://astronomy.yale.edu/), advised by [Gregory Laughlin](https://astronomy.yale.edu/people/gregory-laughlin) and [Malena Rice](http://www.astro.yale.edu/malenarice/team.html). In the Fall of 2025, I will start as a Flatiron Research Fellow at the [Center for Computational Astrophysics](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/). I am broadly interested in exoplanet dynamics and architectures. Specifically, I have worked on numerical methods and tools, tidal and spin evolution, and how the structure of planets affects the details of their dynamics.
 
 I grew up in Shanghai, China, and attended Caltech for my undergraduate studies where I received my Bachelor's in Astrophysics and Minor in Computer Science in 2020. I have also spent summers at Carnegie Observatories (working with [Therese Hansen](https://www.teresehansen.com/), 2018) and UC Berkeley (working with [Burkhard Militzer](https://eps.berkeley.edu/people/burkhard-militzer), 2019).
 

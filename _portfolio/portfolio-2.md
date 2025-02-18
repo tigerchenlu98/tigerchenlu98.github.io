@@ -8,8 +8,8 @@ Gravity is a conceptually simple force, but in practice simple does not necessar
 
 I led the addition of self-consistent tidal, spin and dynamical equations of motion in [REBOUNDx](https://reboundx.readthedocs.io/en/latest/effects.html), a library of add-ons for REBOUND. In [Lu et. al (2023)](https://iopscience.iop.org/article/10.3847/1538-4357/acc06d) we describe the implementation and usage of equilibrium tide theory in REBOUNDx, opening the door for easy and accessible exploration of the physics associated.
 
-Recently, I led the development of a novel hybrid integrator TRACE, which is described in [Lu, Hernandez & Rein (2024)](https://ui.adsabs.harvard.edu/abs/2024arXiv240503800L/abstract). TRACE is specifically designed for fast and accurate integrations of planetary systems with close encounters, and for its use cases it may be up to 13 times faster than its competitors.
+Recently, I led the development of a novel hybrid integrator TRACE, which is described in [Lu, Hernandez & Rein (2024)](https://academic.oup.com/mnras/article/533/3/3708/7735374). TRACE is specifically designed for fast and accurate integrations of planetary systems with close encounters, and for its use cases it may be up to 13 times faster than its competitors.
 
 Relevant Publications:
-1. Lu, Hernandez & Rein (2024), [In Review](https://ui.adsabs.harvard.edu/abs/2024arXiv240503800L/abstract)
+1. Lu, Hernandez & Rein (2024), [_MNRAS_ **533** 3](https://academic.oup.com/mnras/article/533/3/3708/7735374)
 2. Lu et. al (2023), [_ApJ_ **948** 41](https://iopscience.iop.org/article/10.3847/1538-4357/acc06d)
