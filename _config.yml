@@ -24,11 +24,11 @@ author:
   avatar           : "Tiger_Lu.jpg"
   name             : "Tiger C. Lu"
   pronouns         : # example: "she/her"
-  bio              : "Ph.D. Candidate in Astrophysics"
-  location         : "New Haven, CT, USA"
-  employer         : "Yale University"
+  bio              : "Flatiron Research Fellow"
+  location         : "New York, NY, USA"
+  employer         : "Flatiron Institute"
   uri              : # URL
-  email            : "tiger.lu@yale.edu"
+  email            : "tlu@flatironinstitute.org"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
