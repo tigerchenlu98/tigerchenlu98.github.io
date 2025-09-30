@@ -13,7 +13,7 @@ comments: false
 
 Over the past three decades, the search for planets around other stars has unveiled an astonishing diversity of bizarre worlds that have seriously challenged our best theories of planet formation. My research concerns the formation of these strange systems, and I approach this problem with a combination of analytic theory and numerical simulations.
 
-I'm interested in a lot of things. If it involves dynamics, I can probably be convinced to like it! Here are a few things I'm thinking about at the moment, and do feel to reach out if any of these excite you!
+I'm interested in a lot of things. If it involves dynamics, I can probably be convinced to like it! Here are a few things I'm thinking about at the moment, and do feel free to reach out if any of these excite you!
 
 -   Self-consistent treatment of dynamics with planetary structure evolution
 -   Breaking the chains
