@@ -86,5 +86,21 @@ Pictured here are a few research-related highlights over the years that make me 
     <img src="/images/jojo_cca.png">
     <figcaption>My first visitor on the new job! With the incredible rising star <a href="https://astronomy.yale.edu/people/josephine-baggen">Josephine Baggen</a>.</figcaption>
   </figure>
+  <figure>
+    <img src="/images/birdo.png">
+    <figcaption>Was I intentionally twinning with my good friend <a href="https://www.yasmeenasali.com/">Yasmeen Asali</a> (affectionately known as Birdo) in this picture at the CCA? We'll never know.</figcaption>
+  </figure>
+  <figure>
+    <img src="/images/flannels_1.png">
+    <figcaption>Flannel Fridays at the CCA! Featuring <a href="https://www.aidabehmard.com/">Aida Behmard</a>, <a href="https://github.com/soichiro-hattori">Soichiro Hattori</a> and <a href="https://helenqu.com/ ">Helen Qu</a>.</figcaption>
+  </figure>
+  <figure>
+    <img src="/images/flannels_2.png">
+    <figcaption>We just couldn't get enough flannel! Here we've swapped out Helen for <a href="https://www.danielyahalomi.com/">Daniel Yahalomi</a>.</figcaption>
+  </figure>
+  <figure>
+    <img src="/images/malena_daniel.png">
+    <figcaption>Co-authors!!</figcaption>
+  </figure>
   <!-- add more figures -->
 </div>
