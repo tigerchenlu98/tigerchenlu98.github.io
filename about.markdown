@@ -102,5 +102,9 @@ Pictured here are a few research-related highlights over the years that make me 
     <img src="/images/malena_daniel.png">
     <figcaption>Co-authors!!</figcaption>
   </figure>
+  <figure>
+    <img src="/images/ponchos.png">
+    <figcaption>Apparently these brown contraptions are called ponchos. With the immensely talented <a href="https://eritasy.github.io/">Eritas Yang</a>!</figcaption>
+  </figure>
   <!-- add more figures -->
 </div>

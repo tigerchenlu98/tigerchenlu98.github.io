@@ -17,7 +17,7 @@ Mentoring has been one of the most rewarding parts of my career, and I feel fort
     </p>
     <p><strong>Relevant Papers:</strong></p>
     <ul>
-      <li><i><b>Im</b>, Lu, Rice & Tran, in prep</i></li>
+      <li><i><b>Im</b>, Lu, Rice, Tran, Li & Naoz, in review</i></li>
     </ul>
   </div>
 </div>
@@ -34,7 +34,7 @@ Mentoring has been one of the most rewarding parts of my career, and I feel fort
     <p> <i>Tiger note: Nina's paper was recently featured in Yale Daily News! Check out the article here: <a href="https://news.yale.edu/2025/06/18/new-study-offers-double-dose-hot-jupiters">New study offers a double dose of 'hot Jupiters'</a></i>.
     <p><strong>Relevant Papers:</strong></p>
     <ul>
+      <li><a href="https://ui.adsabs.harvard.edu/abs/2026ApJ...997L..41L/abstract"><i><b>Liu</b>, Lu & Rice (2026)</i></a></li>
       <li><a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...986..103L/abstract"><i><b>Liu</b>, Lu & Rice (2025)</i></a></li>
       <li><a href="https://ui.adsabs.harvard.edu/abs/2025RNAAS...9..110L/abstract"><i>Lu, Tajer, Rein, et al. (inc. <b>Liu</b>), (2025)</i></a></li>
-      <li><a href="https://ui.adsabs.harvard.edu/abs/2025arXiv251218108L/abstract"><i><b>Liu</b>, Lu & Rice (2025)</i></a></li>
     </ul>
