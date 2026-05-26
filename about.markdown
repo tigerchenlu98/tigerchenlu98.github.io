@@ -92,7 +92,7 @@ Pictured here are a few research-related highlights over the years that make me 
   </figure>
   <figure>
     <img src="/images/flannels_1.png">
-    <figcaption>Flannel Fridays at the CCA! Featuring <a href="https://www.aidabehmard.com/">Aida Behmard</a>, <a href="https://github.com/soichiro-hattori">Soichiro Hattori</a> and <a href="https://helenqu.com/ ">Helen Qu</a>.</figcaption>
+    <figcaption>Flannel Fridays at the CCA! Featuring <a href="https://www.aidabehmard.com/">Aida Behmard</a> (who, incidentally, was my TA back at Caltech), <a href="https://github.com/soichiro-hattori">Soichiro Hattori</a> and <a href="https://helenqu.com/ ">Helen Qu</a>.</figcaption>
   </figure>
   <figure>
     <img src="/images/flannels_2.png">
@@ -105,6 +105,18 @@ Pictured here are a few research-related highlights over the years that make me 
   <figure>
     <img src="/images/ponchos.png">
     <figcaption>Apparently these brown contraptions are called ponchos. With the immensely talented <a href="https://eritasy.github.io/">Eritas Yang</a>!</figcaption>
+  </figure>
+  <figure>
+    <img src="/images/boat.png">
+    <figcaption>We're on a boat!! At the annual CCA retreat with <a href="https://michaelpalumbo.me/">Michael Palumbo</a> and <a href="https://rrubenza.github.io/">Ryan Rubenzahl</a> (who, incidentally, was my TA back at Caltech)!</figcaption>
+  </figure>
+  <figure>
+    <img src="/images/ponchos.jpg">
+    <figcaption>We're on a boat!! At the annual CCA retreat with <a href="https://michaelpalumbo.me/">Michael Palumbo</a> and <a href="https://rrubenza.github.io/">Ryan Rubenzahl</a> (who, incidentally, was my TA back at Caltech)!</figcaption>
+  </figure>
+  <figure>
+    <img src="/images/tiki.jpg">
+    <figcaption>Some EPRV enthusiasts after another successful <a href="https://nyexoplanets.github.io/">NYAEM</a> at the best bar in New York City, <a href="https://www.tikichick.com/">Tiki Chick</a>. Pictured: <a href="https://quanghtran.io/">Quang Tran</a> and <a href="https://nksaunders.space/">Nicolas Saunders</a>.</figcaption>
   </figure>
   <!-- add more figures -->
 </div>
