@@ -17,7 +17,7 @@ Mentoring has been one of the most rewarding parts of my career, and I feel fort
     </p>
     <p><strong>Relevant Papers:</strong></p>
     <ul>
-      <li><a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260409834I/abstract"><i><b>Im</b>, Lu, Rice, Tran, Li & Naoz, in press</i></a></li>
+      <li><a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260409834I/abstract"><i><b>Im</b>, Lu, Rice, Tran, Li & Naoz (2026)</i></a></li>
     </ul>
   </div>
 </div>
