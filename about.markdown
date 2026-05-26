@@ -107,11 +107,7 @@ Pictured here are a few research-related highlights over the years that make me 
     <figcaption>Apparently these brown contraptions are called ponchos. With the immensely talented <a href="https://eritasy.github.io/">Eritas Yang</a>!</figcaption>
   </figure>
   <figure>
-    <img src="/images/boat.png">
-    <figcaption>We're on a boat!! At the annual CCA retreat with <a href="https://michaelpalumbo.me/">Michael Palumbo</a> and <a href="https://rrubenza.github.io/">Ryan Rubenzahl</a> (who, incidentally, was my TA back at Caltech)!</figcaption>
-  </figure>
-  <figure>
-    <img src="/images/ponchos.jpg">
+    <img src="/images/boat.jpg">
     <figcaption>We're on a boat!! At the annual CCA retreat with <a href="https://michaelpalumbo.me/">Michael Palumbo</a> and <a href="https://rrubenza.github.io/">Ryan Rubenzahl</a> (who, incidentally, was my TA back at Caltech)!</figcaption>
   </figure>
   <figure>
