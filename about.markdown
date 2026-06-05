@@ -114,5 +114,9 @@ Pictured here are a few research-related highlights over the years that make me 
     <img src="/images/tiki.jpg">
     <figcaption>Some EPRV enthusiasts after another successful <a href="https://nyexoplanets.github.io/">NYAEM</a> at the best bar in New York City, <a href="https://www.tikichick.com/">Tiki Chick</a>. Pictured: <a href="https://quanghtran.io/">Quang Tran</a> and <a href="https://nksaunders.space/">Nicolas Saunders</a>.</figcaption>
   </figure>
+  <figure>
+    <img src="/images/LRG.jpg">
+    <figcaption>The first ever Lu Research Group Meeting!</figcaption>
+  </figure>
   <!-- add more figures -->
 </div>
