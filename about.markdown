@@ -107,6 +107,10 @@ Pictured here are a few research-related highlights over the years that make me 
     <figcaption>Apparently these brown contraptions are called ponchos. With the immensely talented <a href="https://eritasy.github.io/">Eritas Yang</a>!</figcaption>
   </figure>
   <figure>
+    <img src="/images/icepf.png">
+    <figcaption>Did you know that two small rocks can hit each other and become a big rock? At <a href="https://indico-tdli.sjtu.edu.cn/event/4089/">ICEPF 2025</a> with <a href="https://www.simonsfoundation.org/people/thomas-pfeil/">Thomas Pfeil</a>, <a href="https://astrolinn.github.io/">Linn Eriksson</a> and <a href="https://www.umass.edu/astronomy/about/directory/janosz-dewberry">Janosz Dewberry</a>!</figcaption>
+  </figure>
+  <figure>
     <img src="/images/boat.jpg">
     <figcaption>We're on a boat!! At the annual CCA retreat with <a href="https://michaelpalumbo.me/">Michael Palumbo</a> and <a href="https://rrubenza.github.io/">Ryan Rubenzahl</a> (who, incidentally, was my TA back at Caltech)!</figcaption>
   </figure>
@@ -116,7 +120,7 @@ Pictured here are a few research-related highlights over the years that make me 
   </figure>
   <figure>
     <img src="/images/LRG.jpg">
-    <figcaption>The first ever Lu Research Group Meeting!</figcaption>
+    <figcaption>The first ever Lu Research Group Meeting! Featuring Eritas, <a href="https://vighneshnagpal.github.io/">Vighnesh Nagpal</a>, Daniel and Nina!</figcaption>
   </figure>
   <!-- add more figures -->
 </div>
