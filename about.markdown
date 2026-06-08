@@ -107,7 +107,7 @@ Pictured here are a few research-related highlights over the years that make me 
     <figcaption>Apparently these brown contraptions are called ponchos. With the immensely talented <a href="https://eritasy.github.io/">Eritas Yang</a>!</figcaption>
   </figure>
   <figure>
-    <img src="/images/icepf.png">
+    <img src="/images/icepf.jpg">
     <figcaption>Did you know that two small rocks can hit each other and become a big rock? At <a href="https://indico-tdli.sjtu.edu.cn/event/4089/">ICEPF 2025</a> with <a href="https://www.simonsfoundation.org/people/thomas-pfeil/">Thomas Pfeil</a>, <a href="https://astrolinn.github.io/">Linn Eriksson</a> and <a href="https://www.umass.edu/astronomy/about/directory/janosz-dewberry">Janosz Dewberry</a>!</figcaption>
   </figure>
   <figure>
