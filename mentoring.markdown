@@ -33,7 +33,7 @@ On this page you'll find brief bios of the students I've directly supervised. Ju
     <p>
       Yurou (Nina) Liu is senior undergraduate at Yale University studying Physics (Intensive) and Computer Science, with a focus on exoplanetary science. She is researching exoplanet dynamics and substellar atmospheres. Beyond astrophysics research, she has designed her computer science major around computer graphics and vision.
     </p>
-    <p> <i>Tiger note: Nina's paper was recently featured in Yale Daily News! Check out the article here: <a href="https://news.yale.edu/2025/06/18/new-study-offers-double-dose-hot-jupiters">New study offers a double dose of 'hot Jupiters'</a></i>.
+    <p> <i>Tiger note: Nina's paper was featured in Yale Daily News! Check out the article here: <a href="https://news.yale.edu/2025/06/18/new-study-offers-double-dose-hot-jupiters">New study offers a double dose of 'hot Jupiters'</a></i>.
     </p>
     <p> <i>Tiger note: Nina is, as of Fall 2026, a Ph.D. Student at Princeton University!!!</i>
     </p>
@@ -43,6 +43,8 @@ On this page you'll find brief bios of the students I've directly supervised. Ju
       <li><a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...986..103L/abstract"><i><b>Liu</b>, Lu & Rice (2025)</i></a></li>
       <li><a href="https://ui.adsabs.harvard.edu/abs/2025RNAAS...9..110L/abstract"><i>Lu, Tajer, Rein, et al. (inc. <b>Liu</b>), (2025)</i></a></li>
     </ul>
+  </div>
+</div>
 -------------------
 <div class="feature-row">
   <img src="/images/eritas_yang.png"
@@ -59,3 +61,5 @@ On this page you'll find brief bios of the students I've directly supervised. Ju
     <ul>
       <li><a href="https://ui.adsabs.harvard.edu/abs/2026ApJ..1004L..29Y/abstract"><i><b>Yang</b>, Lu, Yahalomi & Winn (2026)</i></a></li>
     </ul>
+  </div>
+</div>
