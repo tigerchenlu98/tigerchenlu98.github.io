@@ -4,7 +4,9 @@ title: Mentoring
 date: 2025-23-09
 comments: false
 ---
-Mentoring has been one of the most rewarding parts of my career, and I feel fortunate to have worked with some exceptionally talented students over the years. I often say that I've never had a student who wasn't a better scientist than myself, and I'm genuinely only ~15% joking. On this page you'll find brief bios of the students I've directly supervised.
+Mentoring has been one of the most rewarding parts of my career, and I feel fortunate to have worked with some exceptionally talented students over the years. I often say that I've never had a student who wasn't a better scientist than myself, and I'm genuinely only ~15% joking. 
+
+On this page you'll find brief bios of the students I've directly supervised. Just as an observation of a planetary system represents but a fleeting snapshot of billions of years worth of evolution, the specific bios on this page are a but a relic of what are sure to be long and fruitful careers. When appropriate, I have gone through and annotated subsequent accomplishments in <i>italics</i>.
 
 <div class="feature-row">
   <img src="/images/haedam_im.jpg"
@@ -32,9 +34,28 @@ Mentoring has been one of the most rewarding parts of my career, and I feel fort
       Yurou (Nina) Liu is senior undergraduate at Yale University studying Physics (Intensive) and Computer Science, with a focus on exoplanetary science. She is researching exoplanet dynamics and substellar atmospheres. Beyond astrophysics research, she has designed her computer science major around computer graphics and vision.
     </p>
     <p> <i>Tiger note: Nina's paper was recently featured in Yale Daily News! Check out the article here: <a href="https://news.yale.edu/2025/06/18/new-study-offers-double-dose-hot-jupiters">New study offers a double dose of 'hot Jupiters'</a></i>.
+    </p>
+    <p> <i>Tiger note: Nina is, as of Fall 2026, a Ph.D. Student at Princeton University!!!</i>
+    </p>
     <p><strong>Relevant Papers:</strong></p>
     <ul>
       <li><a href="https://ui.adsabs.harvard.edu/abs/2026ApJ...997L..41L/abstract"><i><b>Liu</b>, Lu & Rice (2026)</i></a></li>
       <li><a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...986..103L/abstract"><i><b>Liu</b>, Lu & Rice (2025)</i></a></li>
       <li><a href="https://ui.adsabs.harvard.edu/abs/2025RNAAS...9..110L/abstract"><i>Lu, Tajer, Rein, et al. (inc. <b>Liu</b>), (2025)</i></a></li>
+    </ul>
+-------------------
+<div class="feature-row">
+  <img src="/images/eritas_yang.png"
+       alt="Eritas!"
+       style="width:150px; height:auto; border-radius:2px;">
+  <div>
+    <h1><a href="https://eritasy.github.io/">Eritas Yang</a></h1>
+    <p>
+      Eritas Yang is a second-year graduate student in the Department of Astrophysical Sciences at Princeton University, where she studies how planetary systems move and evolve. Her research centers on planetary dynamics — in particular, the question of what keeps compact multi-planet systems stable rather than tearing themselves apart. Before Princeton, she was a physics major at Harvey Mudd College, and her work has earned her the American Physical Society LeRoy Apker Award and Princeton's Centennial Fellowship. Off the clock, she's usually hiking or in search of good boba.
+    </p>
+    <p> <i>Tiger note: this bio was generated with, at the request of at with explicit permission from Eritas, Claude AI</i>.
+    </p>
+    <p><strong>Relevant Papers:</strong></p>
+    <ul>
+      <li><a href="https://ui.adsabs.harvard.edu/abs/2026ApJ..1004L..29Y/abstract"><i><b>Yang</b>, Lu, Yahalomi & Winn (2026)</i></a></li>
     </ul>
