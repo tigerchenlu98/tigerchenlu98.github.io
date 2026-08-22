@@ -55,7 +55,7 @@ On this page you'll find brief bios of the students I've directly supervised. Ju
     <p>
       Eritas Yang is a second-year graduate student in the Department of Astrophysical Sciences at Princeton University, where she studies how planetary systems move and evolve. Her research centers on planetary dynamics — in particular, the question of what keeps compact multi-planet systems stable rather than tearing themselves apart. Before Princeton, she was a physics major at Harvey Mudd College, and her work has earned her the American Physical Society LeRoy Apker Award and Princeton's Centennial Fellowship. Off the clock, she's usually hiking or in search of good boba.
     </p>
-    <p> <i>Tiger note: this bio was generated with, at the request of at with explicit permission from Eritas, Claude AI</i>.
+    <p> <i>Tiger note: this bio was generated with, at the request of and with explicit permission from Eritas, Claude AI</i>.
     </p>
     <p><strong>Relevant Papers:</strong></p>
     <ul>
