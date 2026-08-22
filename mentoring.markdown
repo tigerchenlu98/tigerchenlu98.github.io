@@ -41,7 +41,7 @@ On this page you'll find brief bios of the students I've directly supervised. Ju
     <ul>
       <li><a href="https://ui.adsabs.harvard.edu/abs/2026ApJ...997L..41L/abstract"><i><b>Liu</b>, Lu & Rice (2026)</i></a></li>
       <li><a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...986..103L/abstract"><i><b>Liu</b>, Lu & Rice (2025)</i></a></li>
-      <li><a href="https://ui.adsabs.harvard.edu/abs/2025RNAAS...9..110L/abstract"><i>Lu, Tajer, Rein, et al. (inc. <b>Liu</b>), (2025)</i></a></li>
+      <li><a href="https://ui.adsabs.harvard.edu/abs/2025RNAAS...9..110L/abstract"><i>Lu, Tajer, Rein, Hernandez, <b>Liu</b> & Rice (2025)</i></a></li>
     </ul>
   </div>
 </div>
