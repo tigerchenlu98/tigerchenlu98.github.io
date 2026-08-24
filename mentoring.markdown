@@ -47,6 +47,18 @@ On this page you'll find brief bios of the students I've directly supervised. Ju
 </div>
 -------------------
 <div class="feature-row">
+  <img src="/images/vighnesh_nagpal.png"
+       alt="Nina!"
+       style="width:150px; height:auto; border-radius:2px;">
+  <div>
+    <h1><a href="https://vighneshnagpal.github.io/">Vighnesh Nagpal</a></h1>
+    <p>
+      Vighnesh Nagpal is an NSF Graduate Research Fellow at the University of Chicago. He obtained his Bachelor's degrees in Physics & Astrophysics from the University of California, Berkeley in 2024. He is broadly interested in exoplanet atmospheres, dynamics, and understanding how Galactic-scale effects influence the Milky Way's exoplanet population.
+    </p>
+  </div>
+</div>
+-------------------
+<div class="feature-row">
   <img src="/images/eritas_yang.png"
        alt="Eritas!"
        style="width:150px; height:auto; border-radius:2px;">
