@@ -69,8 +69,8 @@ On this page you'll find brief bios of the students I've directly supervised. Ju
     </p>
     <p><strong>Relevant Papers:</strong></p>
     <ul>
-      <li><a href="https://ui.adsabs.harvard.edu/abs/2026ApJ...998...46T/abstract"><i><b>Tajer<b>, Wang, Childs, Ferich, Lu & Rein (2026)</i></a></li>
-      <li><a href="https://ui.adsabs.harvard.edu/abs/2025RNAAS...9..110L/abstract"><i>Lu, <b>Tajer<b>, Hernandez, Rein, Liu & Rice (2025)</i></a></li>
+      <li><a href="https://ui.adsabs.harvard.edu/abs/2026ApJ...998...46T/abstract"><i><b>Tajer</b>, Wang, Childs, Ferich, Lu & Rein (2026)</i></a></li>
+      <li><a href="https://ui.adsabs.harvard.edu/abs/2025RNAAS...9..110L/abstract"><i>Lu, <b>Tajer</b>, Hernandez, Rein, Liu & Rice (2025)</i></a></li>
     </ul>
   </div>
 </div>
