@@ -41,20 +41,37 @@ On this page you'll find brief bios of the students I've directly supervised. Ju
     <ul>
       <li><a href="https://ui.adsabs.harvard.edu/abs/2026ApJ...997L..41L/abstract"><i><b>Liu</b>, Lu & Rice (2026)</i></a></li>
       <li><a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...986..103L/abstract"><i><b>Liu</b>, Lu & Rice (2025)</i></a></li>
-      <li><a href="https://ui.adsabs.harvard.edu/abs/2025RNAAS...9..110L/abstract"><i>Lu, Tajer, Rein, Hernandez, <b>Liu</b> & Rice (2025)</i></a></li>
+      <li><a href="https://ui.adsabs.harvard.edu/abs/2025RNAAS...9..110L/abstract"><i>Lu, Tajer, Hernandez, Rein, <b>Liu</b> & Rice (2025)</i></a></li>
     </ul>
   </div>
 </div>
 -------------------
 <div class="feature-row">
   <img src="/images/vighnesh_nagpal.png"
-       alt="Nina!"
+       alt="Vighnesh!"
        style="width:150px; height:auto; border-radius:2px;">
   <div>
     <h1><a href="https://vighneshnagpal.github.io/">Vighnesh Nagpal</a></h1>
     <p>
       Vighnesh Nagpal is an NSF Graduate Research Fellow at the University of Chicago. He obtained his Bachelor's degrees in Physics & Astrophysics from the University of California, Berkeley in 2024. He is broadly interested in exoplanet atmospheres, dynamics, and understanding how Galactic-scale effects influence the Milky Way's exoplanet population.
     </p>
+  </div>
+</div>
+-------------------
+<div class="feature-row">
+  <img src="/images/haniyeh_tajer.jpg"
+       alt="Haniyeh!"
+       style="width:150px; height:auto; border-radius:2px;">
+  <div>
+    <h1><a href="https://haniyehtajer.github.io/">Haniyeh Tajer</a></h1>
+    <p>
+      I'm a graduate student at the Ohio State University and an LSST data science fellow. I work on a broad range of topics: in exoplanets, I do N-body simulations of late-stage planet formation. Currently, I am mostly interested in galactic chemical evolution and dynamics. I am also working on data-driven models to transfer stellar labels between surveys. When I'm not doing research, I enjoy running, climbing, and hiking!
+    </p>
+    <p><strong>Relevant Papers:</strong></p>
+    <ul>
+      <li><a href="https://ui.adsabs.harvard.edu/abs/2026ApJ...998...46T/abstract"><i><b>Tajer<b>, Wang, Childs, Ferich, Lu & Rein (2026)</i></a></li>
+      <li><a href="https://ui.adsabs.harvard.edu/abs/2025RNAAS...9..110L/abstract"><i>Lu, <b>Tajer<b>, Hernandez, Rein, Liu & Rice (2025)</i></a></li>
+    </ul>
   </div>
 </div>
 -------------------
