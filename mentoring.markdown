@@ -25,6 +25,18 @@ On this page you'll find brief bios of the students I've directly supervised. Ju
 </div>
 -------------------
 <div class="feature-row">
+  <img src="/images/simone_lilavois.jpg"
+       alt="Simone!"
+       style="width:150px; height:auto; border-radius:2px;">
+  <div>
+    <h1>Simone Lilavois</h1>
+    <p>
+      Simone Lilavois is an undergraduate physics student at Amherst College. Her research investigates how giant planets affect the dynamical evolution of inner planetary systems. She also works on orbit-fitting to constrain the architectures of binary star systems within 20 pc. Outside of academics, Simone is a competitive swimmer, loves science fiction, and travels as much as she can. She plans to pursue a Ph.D. in astrophysics and a career in academia.
+    </p>
+  </div>
+</div>
+-------------------
+<div class="feature-row">
   <img src="/images/yurou_liu.jpg"
        alt="Nina!"
        style="width:150px; height:auto; border-radius:2px;">
